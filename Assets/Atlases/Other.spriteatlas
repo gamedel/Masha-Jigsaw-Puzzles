@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Other
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3912b4496789e1e40b9221d97ae5fe60, type: 3}
+    - {fileID: 2800000, guid: 4d6e0e5c196c1784f8a356c2d737c3d8, type: 3}
+    - {fileID: 2800000, guid: 19ae25bf9463aaa4e8d098b7d5c07c93, type: 3}
+    - {fileID: 2800000, guid: fca1715f53a768441b182e942b5e0a93, type: 3}
+    - {fileID: 2800000, guid: 21d399fc1496a8b4fb6aa138a5ebd0c9, type: 3}
+    - {fileID: 2800000, guid: fb8d75535b3bb7c449671e4f86019ce4, type: 3}
+    - {fileID: 2800000, guid: 772068ff3e6d5e64689aaef351677f5b, type: 3}
+    - {fileID: 2800000, guid: ed3f28fccf3fccd44ae5fdfdc79fb77c, type: 3}
+    - {fileID: 2800000, guid: 2b2054e1b8057dd4f821ac79253daa3a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2b2054e1b8057dd4f821ac79253daa3a, type: 3}
+  - {fileID: 21300000, guid: fb8d75535b3bb7c449671e4f86019ce4, type: 3}
+  - {fileID: 21300000, guid: 3912b4496789e1e40b9221d97ae5fe60, type: 3}
+  - {fileID: 21300000, guid: 4d6e0e5c196c1784f8a356c2d737c3d8, type: 3}
+  - {fileID: 21300000, guid: ed3f28fccf3fccd44ae5fdfdc79fb77c, type: 3}
+  - {fileID: 21300000, guid: 21d399fc1496a8b4fb6aa138a5ebd0c9, type: 3}
+  - {fileID: 21300000, guid: fca1715f53a768441b182e942b5e0a93, type: 3}
+  - {fileID: 21300000, guid: 19ae25bf9463aaa4e8d098b7d5c07c93, type: 3}
+  - {fileID: 21300000, guid: 772068ff3e6d5e64689aaef351677f5b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Zastavka_Fone
+  - Button_No_Music
+  - Ads
+  - Button_Help
+  - No_Ads
+  - Button_Music
+  - Button_Home 1
+  - Button_Help_On
+  - Button_Play
+  m_RenderDataMap: {}
+  m_Tag: Other
+  m_IsVariant: 0

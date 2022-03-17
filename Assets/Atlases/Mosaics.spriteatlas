@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mosaics
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 09bfc7f5af3d379459cd0e8673c9dcb3, type: 3}
+    - {fileID: 2800000, guid: d5a22fbcf8d4ada44b3b8e4584a04b5b, type: 3}
+    - {fileID: 2800000, guid: db6afeecb9468dc46a04c3e6cedc9ccf, type: 3}
+    - {fileID: 2800000, guid: c27c1617c620a70478bbe99a233cfb64, type: 3}
+    - {fileID: 2800000, guid: c56ff888d93e4d848b398fd395fa2bc5, type: 3}
+    - {fileID: 2800000, guid: cafdb75c348278441ba19064d3e0b499, type: 3}
+    - {fileID: 2800000, guid: 59de27c039d968f448e69412f55d4714, type: 3}
+    - {fileID: 2800000, guid: 5decd198c8efb9e4c915d0b615daef97, type: 3}
+    - {fileID: 2800000, guid: adc1b9999b797384795a0f6c5d356333, type: 3}
+    - {fileID: 2800000, guid: d270a04873be43f4e8eee145e7e27511, type: 3}
+    - {fileID: 2800000, guid: 0a02db46ae945ce4fab2b342af667bf0, type: 3}
+    - {fileID: 2800000, guid: ac1aca72faeaa114590039831a2fafe5, type: 3}
+    - {fileID: 2800000, guid: 48457c08bdf280943b357e18552503f5, type: 3}
+    - {fileID: 2800000, guid: 5660b9444caa16f4384a3eef1378856f, type: 3}
+    - {fileID: 2800000, guid: a164f4ef8a44f7648b6323203630c4c2, type: 3}
+    - {fileID: 2800000, guid: ec4b961a223e5784a8fef07165927bea, type: 3}
+    - {fileID: 2800000, guid: 16e46ea5e288aac4aa08f3462cb8d635, type: 3}
+    - {fileID: 2800000, guid: bed3f220682ac7046b56b73c3bad6595, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bed3f220682ac7046b56b73c3bad6595, type: 3}
+  - {fileID: 21300000, guid: 59de27c039d968f448e69412f55d4714, type: 3}
+  - {fileID: 21300000, guid: ac1aca72faeaa114590039831a2fafe5, type: 3}
+  - {fileID: 21300000, guid: 5660b9444caa16f4384a3eef1378856f, type: 3}
+  - {fileID: 21300000, guid: 16e46ea5e288aac4aa08f3462cb8d635, type: 3}
+  - {fileID: 21300000, guid: 09bfc7f5af3d379459cd0e8673c9dcb3, type: 3}
+  - {fileID: 21300000, guid: 0a02db46ae945ce4fab2b342af667bf0, type: 3}
+  - {fileID: 21300000, guid: c27c1617c620a70478bbe99a233cfb64, type: 3}
+  - {fileID: 21300000, guid: 48457c08bdf280943b357e18552503f5, type: 3}
+  - {fileID: 21300000, guid: d270a04873be43f4e8eee145e7e27511, type: 3}
+  - {fileID: 21300000, guid: c56ff888d93e4d848b398fd395fa2bc5, type: 3}
+  - {fileID: 21300000, guid: 5decd198c8efb9e4c915d0b615daef97, type: 3}
+  - {fileID: 21300000, guid: adc1b9999b797384795a0f6c5d356333, type: 3}
+  - {fileID: 21300000, guid: ec4b961a223e5784a8fef07165927bea, type: 3}
+  - {fileID: 21300000, guid: cafdb75c348278441ba19064d3e0b499, type: 3}
+  - {fileID: 21300000, guid: d5a22fbcf8d4ada44b3b8e4584a04b5b, type: 3}
+  - {fileID: 21300000, guid: db6afeecb9468dc46a04c3e6cedc9ccf, type: 3}
+  - {fileID: 21300000, guid: a164f4ef8a44f7648b6323203630c4c2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - pzl18
+  - pzl7
+  - pzl12
+  - pzl14
+  - pzl17
+  - pzl1
+  - pzl11
+  - pzl4
+  - pzl13
+  - pzl10
+  - pzl5
+  - pzl8
+  - pzl9
+  - pzl16
+  - pzl6
+  - pzl2
+  - pzl3
+  - pzl15
+  m_RenderDataMap: {}
+  m_Tag: Mosaics
+  m_IsVariant: 0
